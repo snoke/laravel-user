@@ -8,6 +8,9 @@
             "email": "stefan@stefan-sander.online"
         }
     ],
+	"require": {
+		"php": "8.3.4"
+	},
     "autoload": {
         "classmap": [
             "src/"
