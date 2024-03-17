@@ -1,0 +1,19 @@
+{
+    "name": "snoke/laravel-user",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Sander",
+            "email": "stefan@stefan-sander.online"
+        }
+    ],
+    "require": {
+        "php": "8.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+}
