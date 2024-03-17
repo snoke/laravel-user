@@ -1,4 +1,4 @@
-{
+{	
     "name": "snoke/laravel-user",
     "description": "",
     "license": "MIT",
@@ -8,12 +8,12 @@
             "email": "stefan@stefan-sander.online"
         }
     ],
-	"require": {
-		"php": "8.3.4"
-	},
+    "require": {
+        "php": "8.3"
+    },
     "autoload": {
         "classmap": [
             "src/"
         ]
-    }
+    },
 }
